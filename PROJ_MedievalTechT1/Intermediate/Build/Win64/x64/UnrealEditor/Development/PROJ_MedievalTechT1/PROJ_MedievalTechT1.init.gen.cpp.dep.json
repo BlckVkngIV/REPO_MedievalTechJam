@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_medievaltecht1\\uht\\proj_medievaltecht1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
