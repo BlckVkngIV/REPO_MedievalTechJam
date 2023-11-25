@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1.cpp",
+        "Source": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
-            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1.h"
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

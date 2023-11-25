@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1gamemodebase.cpp",
+        "Source": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1gamemodebase.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
-            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1gamemodebase.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\pc\\documents\\unreal projects\\repo_medievaltecht1\\proj_medievaltecht1\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_medievaltecht1\\uht\\proj_medievaltecht1gamemodebase.generated.h"
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\proj_medievaltecht1gamemodebase.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_medievaltecht1\\uht\\proj_medievaltecht1gamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
