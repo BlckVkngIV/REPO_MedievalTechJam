@@ -12,3 +12,11 @@
 ### 0.0.0 / Project Creation / Eduardo Camarena
 * Created UnrealEngine Project.
 * Added `.gitignore`, `.gitattributes` to repository.
+
+### 0.0.0 / Character Creation / Paulo Reyes
+* Created the main character
+* Car mechanics added
+
+### 0.0.0 / Multiplayer / Paulo Reyes
+* Added Steam Multiplayer
+* Added Replicated Goals
