@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_MedievalTechT1\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1\\PROJ_MedievalTechT1.Build.cs",
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_MedievalTechT1\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1.Target.cs",
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_MedievalTechT1\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1Editor.Target.cs"
+		"C:\\Users\\Raulf\\Documents\\Unreal Projects\\REPO_MedievalTechJam\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1\\PROJ_MedievalTechT1.Build.cs",
+		"C:\\Users\\Raulf\\Documents\\Unreal Projects\\REPO_MedievalTechJam\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1.Target.cs",
+		"C:\\Users\\Raulf\\Documents\\Unreal Projects\\REPO_MedievalTechJam\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1Editor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }
