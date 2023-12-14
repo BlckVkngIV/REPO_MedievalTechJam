@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\multiplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\multiplayer.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_medievaltecht1\\uht\\multiplayer.generated.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinesessionnames.h",
+            "e:\\unreal 5.2\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

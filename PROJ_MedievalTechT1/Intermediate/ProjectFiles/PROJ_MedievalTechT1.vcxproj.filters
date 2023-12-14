@@ -11,6 +11,7 @@
     <None Include="..\..\Source\PROJ_MedievalTechT1Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -26,9 +27,27 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
     <Filter Include="Source\PROJ_MedievalTechT1">
       <UniqueIdentifier>{557E6F00-7C5D-34D5-AF29-4B6978AF82B5}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PROJ_MedievalTechT1\Multiplayer.cpp">
+      <Filter>Source\PROJ_MedievalTechT1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROJ_MedievalTechT1\Multiplayer.h">
+      <Filter>Source\PROJ_MedievalTechT1</Filter>
+    </ClInclude>
     <None Include="..\..\Source\PROJ_MedievalTechT1\PROJ_MedievalTechT1.Build.cs">
       <Filter>Source\PROJ_MedievalTechT1</Filter>
     </None>
