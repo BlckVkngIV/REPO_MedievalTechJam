@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PROJ_MedievalTechT1",
+			"Path": "D:\\Unreal Projects\\REPO_MedievalTechJam\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PROJ_MedievalTechT1Editor",
+			"Path": "D:\\Unreal Projects\\REPO_MedievalTechJam\\PROJ_MedievalTechT1\\Source\\PROJ_MedievalTechT1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

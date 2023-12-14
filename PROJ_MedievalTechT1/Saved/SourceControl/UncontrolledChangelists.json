@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/xxdar/taquitosdorados_noble_6_from_Halo_Reach_sitting_besides_a_campf_f666304a-133a-4577-a70e-5c20911328a6.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Models/Tricycle/source/Tricycle_Tex.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/RacingGameMapTest.umap",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/BP_BoyCharacter.uasset",
@@ -25,12 +24,16 @@
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Models/Tricycle/textures/lambert1_roughness.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Models/Boy/Male_Sitting_Pose.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Models/Tricycle/source/Tricycle.uasset",
-				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Steering.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Left.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/RacingCarInputs.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Accelerate.uasset",
 				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Break.uasset",
-				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Right.uasset"
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Right.uasset",
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/BP_Goal.uasset",
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/WBP_Finish.uasset",
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/BPI_Interact.uasset",
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/xxdar/taquitosdorados_noble_6_from_Halo_Reach_sitting_besides_a_campf_f666304a-133a-4577-a70e-5c20911328a6.uasset",
+				"D:/Unreal Projects/REPO_MedievalTechJam/PROJ_MedievalTechT1/Content/Developers/Paulo/Inputs/Steering.uasset"
 			]
 		}
 	]

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\multiplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\proj_medievaltecht1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_medievaltecht1\\definitions.proj_medievaltecht1.h",
+            "d:\\unreal projects\\repo_medievaltechjam\\proj_medievaltecht1\\source\\proj_medievaltecht1\\multiplayer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

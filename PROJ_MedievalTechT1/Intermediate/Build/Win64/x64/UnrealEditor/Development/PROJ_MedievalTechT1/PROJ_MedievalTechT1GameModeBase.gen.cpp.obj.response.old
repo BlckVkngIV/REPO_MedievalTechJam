@@ -1,7 +1,7 @@
-"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_MedievalTechT1\UHT\PROJ_MedievalTechT1GameModeBase.gen.cpp"
+"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_MedievalTechT1\UHT\PROJ_MedievalTechT1GameModeBase.gen.cpp"
 /I .
-/I "C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_MedievalTechT1\UHT"
-/I "C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Source"
+/I "D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_MedievalTechT1\UHT"
+/I "D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Source"
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -278,17 +278,17 @@
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\Definitions.PROJ_MedievalTechT1.h"
-/Yu"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\PROJ_MedievalTechT1GameModeBase.gen.cpp.obj"
-/sourceDependencies "C:\Users\PC\Documents\Unreal Projects\REPO_MedievalTechT1\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\PROJ_MedievalTechT1GameModeBase.gen.cpp.dep.json"
+/FI"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\Definitions.PROJ_MedievalTechT1.h"
+/Yu"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\PROJ_MedievalTechT1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\PROJ_MedievalTechT1GameModeBase.gen.cpp.obj"
+/sourceDependencies "D:\Unreal Projects\REPO_MedievalTechJam\PROJ_MedievalTechT1\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_MedievalTechT1\PROJ_MedievalTechT1GameModeBase.gen.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi

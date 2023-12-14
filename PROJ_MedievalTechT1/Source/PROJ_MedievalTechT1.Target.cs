@@ -10,6 +10,9 @@ public class PROJ_MedievalTechT1Target : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
+		
+		bUsesSteam = true;
+		
 		ExtraModuleNames.Add("PROJ_MedievalTechT1");
 	}
 }
